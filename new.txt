@@ -1,1 +1,2 @@
-Today is thursday
+[branch1 d9a5a29] changes
+ 1 file changed, 1 insertion(+), 1 deletion(-)
